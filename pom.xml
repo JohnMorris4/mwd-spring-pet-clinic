@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.morris_je</groupId>
     <artifactId>mwd-spring-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>mwd-spring-pet-clinic</name>
     <description>SFT Pet Clinic Project</description>
 
@@ -40,6 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:JohnMorris4/mwd-spring-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>mwd-spring-pet-clinic-0.0.3</tag>
     </scm>
 </project>
