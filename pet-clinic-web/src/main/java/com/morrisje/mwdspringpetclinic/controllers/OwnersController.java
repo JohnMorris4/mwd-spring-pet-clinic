@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic.controllers;
+package com.morrisje.mwdspringpetclinic.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

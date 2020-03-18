@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic.services;
+package com.morrisje.mwdspringpetclinic.services;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic;
+package com.morrisje.mwdspringpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

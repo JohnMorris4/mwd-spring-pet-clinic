@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic.model;
+package com.morrisje.mwdspringpetclinic.model;
 
 public class Person extends BaseEntity {
     private String firstName;

@@ -1,6 +1,6 @@
-package com.morris_je.mwdspringpetclinic.services;
+package com.morrisje.mwdspringpetclinic.services;
 
-import com.morris_je.mwdspringpetclinic.model.Owner;
+import com.morrisje.mwdspringpetclinic.model.Owner;
 
 public interface OwnerService extends CrudService<Owner, Long> {
     Owner findByLastName(String lastName);

@@ -1,11 +1,11 @@
-package com.morris_je.mwdspringpetclinic.services.map;
+package com.morrisje.mwdspringpetclinic.services.map;
 
-import com.morris_je.mwdspringpetclinic.model.Pet;
-import com.morris_je.mwdspringpetclinic.services.CrudService;
+import com.morrisje.mwdspringpetclinic.model.Pet;
+import com.morrisje.mwdspringpetclinic.services.PetService;
 
 import java.util.Set;
 
-public class PetMapService extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
+public class PetMapService extends AbstractMapService<Pet, Long> implements PetService {
     @Override
     public Set<Pet> findAll() {
         return super.findAll();

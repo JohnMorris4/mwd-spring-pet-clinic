@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic.services.map;
+package com.morrisje.mwdspringpetclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

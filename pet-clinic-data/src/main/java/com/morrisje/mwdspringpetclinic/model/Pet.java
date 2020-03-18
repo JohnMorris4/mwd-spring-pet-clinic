@@ -1,4 +1,4 @@
-package com.morris_je.mwdspringpetclinic.model;
+package com.morrisje.mwdspringpetclinic.model;
 
 import java.time.LocalDate;
 
