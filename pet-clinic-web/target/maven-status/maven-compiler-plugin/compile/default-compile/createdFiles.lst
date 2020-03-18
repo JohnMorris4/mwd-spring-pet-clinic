@@ -1,1 +1,5 @@
-com/morris_je/mwdspringpetclinic/MwdSpringPetClinicApplication.class
+com/morrisje/mwdspringpetclinic/bootstrap/DataLoader.class
+com/morrisje/mwdspringpetclinic/MwdSpringPetClinicApplication.class
+com/morrisje/mwdspringpetclinic/controllers/OwnersController.class
+com/morrisje/mwdspringpetclinic/controllers/VetsController.class
+com/morrisje/mwdspringpetclinic/controllers/IndexController.class
