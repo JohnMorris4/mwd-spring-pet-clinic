@@ -5,7 +5,6 @@ public class Person extends BaseEntity {
     private String lastName;
 
 
-
     public String getFirstName() {
         return firstName;
     }
