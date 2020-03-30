@@ -6,10 +6,10 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class VetsController {
+public class VetController {
     private final VetService vetService;
 
-    public VetsController(VetService vetService) {
+    public VetController(VetService vetService) {
         this.vetService = vetService;
     }
 
