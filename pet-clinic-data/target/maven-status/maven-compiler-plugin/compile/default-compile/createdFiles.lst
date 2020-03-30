@@ -15,7 +15,6 @@ com/morrisje/mwdspringpetclinic/services/VetService.class
 com/morrisje/mwdspringpetclinic/services/map/VisitMapService.class
 com/morrisje/mwdspringpetclinic/repos/OwnerRepository.class
 com/morrisje/mwdspringpetclinic/services/springdatajpa/OwnerSDJpaService.class
-com/morrisje/mwdspringpetclinic/services/map/OwnerServiceMap.class
 com/morrisje/mwdspringpetclinic/model/Person.class
 com/morrisje/mwdspringpetclinic/model/Vet$VetBuilder.class
 com/morrisje/mwdspringpetclinic/model/Pet$PetBuilder.class
