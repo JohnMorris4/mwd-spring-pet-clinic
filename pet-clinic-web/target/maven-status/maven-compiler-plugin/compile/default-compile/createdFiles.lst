@@ -1,5 +1,8 @@
-com/morrisje/mwdspringpetclinic/controllers/OwnersController.class
-com/morrisje/mwdspringpetclinic/controllers/IndexController.class
-com/morrisje/mwdspringpetclinic/bootstrap/DataLoader.class
-com/morrisje/mwdspringpetclinic/MwdSpringPetClinicApplication.class
-com/morrisje/mwdspringpetclinic/controllers/VetsController.class
+com/morrisje/mwdpetclinic/bootstrap/DataLoader.class
+com/morrisje/mwdpetclinic/controllers/OwnersController.class
+com/morrisje/mwdpetclinic/controllers/VetController.class
+com/morrisje/mwdpetclinic/controllers/IndexController.class
+com/morrisje/mwdpetclinic/controllers/VisitController.class
+com/morrisje/mwdpetclinic/controllers/PetController.class
+com/morrisje/mwdpetclinic/formatters/PetTypeFormatter.class
+com/morrisje/mwdpetclinic/MwdPetClinicApplication.class
