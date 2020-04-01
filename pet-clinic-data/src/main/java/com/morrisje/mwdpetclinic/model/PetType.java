@@ -10,8 +10,6 @@ import javax.persistence.Table;
  * Created by jmorris on 12/5/18
  */
 
-
-
 @Setter
 @Getter
 @NoArgsConstructor
