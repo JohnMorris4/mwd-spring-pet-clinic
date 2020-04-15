@@ -1,13 +1,8 @@
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdspringpetclinic/bootstrap/DataLoader.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdspringpetclinic/controllers/IndexController.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/formatters/PetTypeFormatter.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdspringpetclinic/MwdSpringPetClinicApplication.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/MwdPetClinicApplication.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/VisitController.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdspringpetclinic/controllers/VetController.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/OwnersController.java
-/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdspringpetclinic/controllers/OwnerController.java
+/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/formatters/PetTypeFormatter.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/IndexController.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/PetController.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/bootstrap/DataLoader.java
+/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/MwdPetClinicApplication.java
+/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/VisitController.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/main/java/com/morrisje/mwdpetclinic/controllers/VetController.java

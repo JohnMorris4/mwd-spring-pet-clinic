@@ -95,8 +95,6 @@
         </plugins>
     </build>
 
-
-
     <scm>
         <developerConnection>scm:git@github.com:JohnMorris4/mwd-spring-pet-clinic.git</developerConnection>
         <tag>mwd-pet-clinic-0.0.5</tag>

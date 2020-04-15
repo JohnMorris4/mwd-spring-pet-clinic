@@ -1,5 +1,7 @@
 com/morrisje/mwdpetclinic/MwdPetClinicApplicationTests.class
 com/morrisje/mwdpetclinic/controllers/OwnerControllerTest.class
+com/morrisje/mwdpetclinic/services/map/PetMapServiceTest.class
+com/morrisje/mwdpetclinic/controllers/VisitControllerTest.class
 com/morrisje/mwdpetclinic/services/map/OwnerMapServiceTest.class
 com/morrisje/mwdpetclinic/controllers/PetControllerTest.class
 com/morrisje/mwdpetclinic/services/springdatajpa/OwnerSDJpaServiceTest.class

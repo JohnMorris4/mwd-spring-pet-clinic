@@ -1,5 +1,7 @@
+/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/controllers/VisitControllerTest.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/services/map/OwnerMapServiceTest.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/controllers/PetControllerTest.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/MwdPetClinicApplicationTests.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/services/springdatajpa/OwnerSDJpaServiceTest.java
+/Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/services/map/PetMapServiceTest.java
 /Users/johnmorris/Development/mwd-pet-clinic/pet-clinic-web/src/test/java/com/morrisje/mwdpetclinic/controllers/OwnersControllerTest.java
